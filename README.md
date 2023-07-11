@@ -255,7 +255,7 @@
 * [定期洗澡降低心血管疾病发作风险](https://www.cn-healthcare.com/article/20200326/content-533379.html)
   * 与每周一至两次泡澡或根本不泡澡相比，每天洗热水澡可以降低28%的心血管疾病总风险，降低26%的中风总风险，脑出血风险下降46%。而浴缸浴的频率与心源性猝死的风险增加无关。
 
-##### 6.2.6. 做家务（老年男性）
+##### 6.2.6. 做家务（青年男性）
 
 * [Housework Reduces All-Cause and Cancer Mortality in Chinese Men](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0061529)
   * 72岁之后男性每周做重型家务可以减少29%平均死亡率
